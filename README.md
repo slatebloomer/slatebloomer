@@ -1,5 +1,7 @@
 ### Hello! 
 
+<img src="1664870383551.jfif" width="150">
+
 I'm Nicola Slater-Arnold and I'm seeking a career change from journalism to coding. At the moment I'm pursuing this dream by doing: 
 
 - 🐍 A gruelling but fun Python bootcamp with HyperionDev
