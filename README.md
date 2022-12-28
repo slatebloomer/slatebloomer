@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! 
 
-<!--
-**slatebloomer/slatebloomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicola Slater-Arnold and I'm seeking a career change from journalism to coding. At the moment I'm pursuing this dream by doing: 
 
-Here are some ideas to get you started:
+- 🐍 A gruelling but fun Python bootcamp with HyperionDev
+- 🖥️ Angela Yu's web development bootcamp 
+- ☁️ Adrian Cantrill's AWS Solutions Architect course
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All of this coupled with the fact that I have a six-month-old baby means that I rarely sleep and when I do I dream in code. 
+
+A little about me: 
+
+- 🤓 I’m learning: Python, JavaScript, AWS, HTML, React
+- 📫 nicolaslaterarnold@gmail.com
+- 😄 Pronouns: She/her
+- 🧓 My GitHub username is a reference and the fact that I'm learning to code at the ripe old age of 33 (and my last name)
