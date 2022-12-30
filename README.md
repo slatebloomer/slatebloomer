@@ -15,4 +15,4 @@ A little about me:
 - 🤓 I’m learning: Python, JavaScript, AWS, HTML, React
 - 📫 nicolaslaterarnold@gmail.com
 - 😄 Pronouns: She/her
-- 🧓 My GitHub username is a reference and the fact that I'm learning to code at the ripe old age of 33 (and my last name)
+- 🧓 My GitHub username is a reference to the fact that I'm learning to code at the ripe old age of 33 (and my last name)
